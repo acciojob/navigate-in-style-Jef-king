@@ -4,8 +4,12 @@
 	padding:10px;
 	
 }
-#nav-bar>li{
+#nav-bar{
 	display:flex;
+}
+
+#nav-bar>li{
+	display:inline;
 	margin-right:1rem;
 	list-style:none;
 }
